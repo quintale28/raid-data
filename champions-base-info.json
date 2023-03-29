@@ -1138,13 +1138,13 @@
       "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Galkut.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Galkut.json"
     },
-    "Ghrush the Manglet": {
+    "Ghrush the Mangler": {
       "rarity": "epic",
       "affinity": "spirit",
       "faction": "Ogryn Tribes",
       "role": "defense",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ghrush_the_Manglet.png",
-      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ghrush_the_Manglet.json"
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ghrush_the_Mangler.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ghrush_the_Mangler.json"
     },
     "Golden Reaper": {
       "rarity": "epic",
