@@ -183,6 +183,190 @@
       "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ailil.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ailil.json"
     },
+	"Archbishop Pinthroy": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Archbishop_Pinthroy.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Archbishop_Pinthroy.json"
+    },
+	"Boragar the Elder": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "pv",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Boragar_the_Elder.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Boragar_the_Elder.json"
+    },
+	"Corvis the Corruptor": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Corvis_the_Corruptor.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Corvis_the_Corruptor.json"
+    },
+	"Countess Lix": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Countess_Lix.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Countess_Lix.json"
+    },
+	"Elva Autumnborn": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Elva_Autumnborn.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Elva_Autumnborn.json"
+    },
+	"Genzin": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Genzin.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Genzin.json"
+    },
+	"Georgid the Breaker": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Georgid_the_Breaker.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Georgid_the_Breaker.json"
+    },
+	"Gnishak Verminlord": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Gnishak_Verminlord.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Gnishak_Verminlord.json"
+    },
+	"Harima": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Harima.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Harima.json"
+    },
+	"Helicath": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Helicath.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Helicath.json"
+    },
+	"Helior": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Helior.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Helior.json"
+    },
+	"Iron Brago": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Iron_Brago.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Iron_Brago.json"
+    },
+	"King Gallcobar": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/King_Gallcobar.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/King_Gallcobar.json"
+    },
+	"Korugar Death-Bell": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "pv",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Korugar_Death_Bell.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Korugar_Death_Bell.json"
+    },
+	"Kreela Witch-Arm": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Kreela_Witch_Arm.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Kreela_Witch_Arm.json"
+    },
+	"Lady Kimi": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Lady_Kimi.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Lady_Kimi.json"
+    },
+	"Michinaki": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Michinaki.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Michinaki.json"
+    },
+	"Morrigaine": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Morrigaine.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Morrigaine.json"
+    },
+	"Noct the Paralyzer": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "pv",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Noct_the_Paralyzer.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Noct_the_Paralyzer.json"
+    },
+	"Oella": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Oella.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Oella.json"
+    },
+	"Ragash": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ragash.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ragash.json"
+    },
+	"Roric Wyrmbane": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Roric_Wyrmbane.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Roric_Wyrmbane.json"
+    },
+	"Roxam": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Roxam.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Roxam.json"
+    },
 	
 	
 	
