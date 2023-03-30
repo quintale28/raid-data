@@ -1,11 +1,11 @@
 {
-    "Abbess": {
+    "Acrizia": {
       "rarity": "legendary",
-      "affinity": "force",
-      "faction": "The Sacred Order",
+      "affinity": "void",
+      "faction": "Dwarves",
       "role": "attack",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Abbess.png",
-      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Abbess.json"
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Acrizia.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Acrizia.json"
     },
     "Altan": {
       "rarity": "legendary",
@@ -204,7 +204,7 @@
       "affinity": "magic",
       "faction": "Undead Hordes",
       "role": "support",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Elegaius.png",
+	  "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Elegaius.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Elegaius.json"
     },
     "Elenaril": {
@@ -356,7 +356,7 @@
       "affinity": "void",
       "faction": "Undead Hordes",
       "role": "attack",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Little_Miss_Annie.png",
+	  "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Little_Miss_Annie.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Little_Miss_Annie.json"
     },
     "Longbeard": {
@@ -396,8 +396,8 @@
       "affinity": "void",
       "faction": "Dark Elves",
       "role": "support",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Lydia_the_Deathsiren.png",
-      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Lydia the Deathsiren.json"
+	  "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Lydia_the_Deathsiren.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Lydia_the_Deathsiren.json"
     },
     "Lyssandra": {
       "rarity": "legendary",
@@ -428,7 +428,7 @@
       "affinity": "spirit",
       "faction": "Banner Lords",
       "role": "attack",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Masked_Fearmonger.png",
+	  "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Masked_Fearmonger.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Masked_Fearmonger.json"
     },
     "Maulie Tankard": {
@@ -468,7 +468,7 @@
       "affinity": "magic",
       "faction": "Knight Revenant",
       "role": "support",
-      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Narma_the_Returned.png",
+	  "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Narma_the_Returned.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Narma_the_Returned.json"
     },
     "Nethril": {
