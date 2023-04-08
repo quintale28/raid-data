@@ -1732,8 +1732,8 @@
 		"affinity": "spirit",
 		"faction": "Knight Revenant",
 		"role": "hp",
-		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Bergoth the Malformed.png",
-		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Bergoth the Malformed.json"
+		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Bergoth_the_Malformed.png",
+		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Bergoth_the_Malformed.json"
 	},
 	"Bloodfeather": {
 		"rarity": "epic",
@@ -2996,8 +2996,8 @@
 		"affinity": "force",
 		"faction": "Banner Lords",
 		"role": "attack",
-		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Sir Artimage.png",
-		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Sir Artimage.json"
+		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Sir_Artimage.png",
+		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Sir_Artimage.json"
 	},
 	"Skathix": {
 		"rarity": "epic",
