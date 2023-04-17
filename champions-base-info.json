@@ -191,6 +191,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Cillian_the_Lucky.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Cillian_the_Lucky.json"
 	},
+	"Claidna": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Sylvan Watchers",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Claidna.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Claidna.json"
+    },
 	"Corvis the Corruptor": {
 		"rarity": "legendary",
 		"affinity": "magic",
@@ -1007,6 +1015,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Rakka_Viletide.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Rakka_Viletide.json"
 	},
+	"Razelvarg": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Razelvarg.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Razelvarg.json"
+    },
 	"Rhazin Scarhide": {
 		"rarity": "legendary",
 		"affinity": "force",
@@ -2495,6 +2511,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Lightsworn.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Lightsworn.json"
 	},
+	"Locwain": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Sylvan Watchers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Locwain.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Locwain.json"
+    },
 	"Lodric Falconheart": {
 		"rarity": "epic",
 		"affinity": "spirit",
@@ -3431,6 +3455,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Wuji.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Wuji.json"
 	},
+	"Wyrennon the Silken": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Wyrennon_the_Silken.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Wyrennon_the_Silken.json"
+    },
 	"Yaga the Insatiable": {
 		"rarity": "epic",
 		"affinity": "force",
@@ -4743,6 +4775,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Marauder.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Marauder.json"
 	},
+	"Margrave Greenhawk": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Sylvan Watchers",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Margrave_Greenhawk.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Margrave_Greenhawk.json"
+    },
 	"Marked": {
 		"rarity": "rare",
 		"affinity": "magic",
