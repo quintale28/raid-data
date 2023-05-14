@@ -15,6 +15,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ailil.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ailil.json"
 	},
+	"Alsgor Crimsonhorn": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Alsgor_Crimsonhorn.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Alsgor_Crimsonhorn.json"
+    },
 	"Altan": {
 		"rarity": "legendary",
 		"affinity": "magic",
@@ -415,6 +423,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Goffred_Brassclad.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Goffred_Brassclad.json"
 	},
+	"Graazur Irongut": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Graazur_Irongut.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Graazur_Irongut.json"
+    },
 	"Greenwarden Ruarc": {
 		"rarity": "legendary",
 		"affinity": "force",
@@ -551,6 +567,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ithos.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ithos.json"
 	},
+	"Jetni": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Jetni.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Jetni.json"
+    },
 	"Jingwon": {
 		"rarity": "legendary",
 		"affinity": "void",
@@ -1903,6 +1927,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Crimson_Helm.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Crimson_Helm.json"
 	},
+	"Criodan the Blue": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Criodan_the_Blue.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Criodan_the_Blue.json"
+    },
 	"Crypt Witch": {
 		"rarity": "epic",
 		"affinity": "magic",
@@ -2335,6 +2367,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Husk.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Husk.json"
 	},
+	"Ilysinya": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ilysinya.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ilysinya.json"
+    },
 	"Infernal Baroness": {
 		"rarity": "epic",
 		"affinity": "force",
