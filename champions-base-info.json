@@ -431,6 +431,14 @@
       "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Graazur_Irongut.png",
       "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Graazur_Irongut.json"
     },
+	"Greathoof Loriaca": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Greathoof_Loriaca.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Greathoof_Loriaca.json"
+    },
 	"Greenwarden Ruarc": {
 		"rarity": "legendary",
 		"affinity": "force",
@@ -1319,6 +1327,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Taras_the_Fierce.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Taras_the_Fierce.json"
 	},
+	"Tatsu": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Tatsu.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Tatsu.json"
+    },
 	"Tatura Rimehide": {
 		"rarity": "legendary",
 		"affinity": "spirit",
