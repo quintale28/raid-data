@@ -55,6 +55,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Archbishop_Pinthroy.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Archbishop_Pinthroy.json"
 	},
+	"Artak": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Artak.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Artak.json"
+    },
 	"Astralith": {
 		"rarity": "legendary",
 		"affinity": "spirit",
@@ -3511,6 +3519,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Wuji.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Wuji.json"
 	},
+	"Wuzgar": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Wuzgar.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Wuzgar.json"
+    },
 	"Wyrennon the Silken": {
       "rarity": "epic",
       "affinity": "spirit",
