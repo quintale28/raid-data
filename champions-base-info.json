@@ -335,6 +335,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Elva_Autumnborn.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Elva_Autumnborn.json"
 	},
+	"Emic Trunkheart": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Sylvan Watchers",
+      "role": "hp",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Emic_Trunkheart.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Emic_Trunkheart.json"
+    },
 	"Errol": {
 		"rarity": "legendary",
 		"affinity": "force",
@@ -423,6 +431,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Gnishak_Verminlord.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Gnishak_Verminlord.json"
 	},
+	"Gnut": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Gnut.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Gnut.json"
+    },
 	"Goffred Brassclad": {
 		"rarity": "legendary",
 		"affinity": "magic",
@@ -583,6 +599,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ithos.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ithos.json"
 	},
+	"Jagg Bonesaw": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Jagg_Bonesaw.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Jagg_Bonesaw.json"
+    },
 	"Jetni": {
       "rarity": "legendary",
       "affinity": "spirit",
@@ -703,6 +727,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Kyoku.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Kyoku.json"
 	},
+	"Lady Of Ireth": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Lady_Of_Ireth.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Lady_Of_Ireth.json"
+    },
 	"Lady Kimi": {
 		"rarity": "legendary",
 		"affinity": "magic",
@@ -1287,6 +1319,22 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Staltus_Dragonbane.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Staltus_Dragonbane.json"
 	},
+	"Sulfuryion": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Sulfuryion.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Sulfuryion.json"
+    },
+	"Sun Wukong": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Sun_Wukong.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Sun_Wukong.json"
+    },
 	"Supreme Athel": {
 		"rarity": "legendary",
 		"affinity": "void",
@@ -1463,6 +1511,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ursuga_Warcaller.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ursuga_Warcaller.json"
 	},
+	"Valkanen": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Valkanen.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Valkanen.json"
+    },
 	"Valkyrie": {
 		"rarity": "legendary",
 		"affinity": "spirit",
@@ -1623,6 +1679,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Adriel.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Adriel.json"
 	},
+	"Aeila Lifebraid": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Aeila_Lifebraid.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Aeila_Lifebraid.json"
+    },
 	"Aeshma": {
 		"rarity": "epic",
 		"affinity": "magic",
@@ -1671,6 +1735,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Alure.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Alure.json"
 	},
+	"Ambassador Lethelin": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "force",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ambassador_Lethelin.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ambassador_Lethelin.json"
+    },
 	"Anax": {
 		"rarity": "epic",
 		"affinity": "spirit",
@@ -2095,6 +2167,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Erinyes.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Erinyes.json"
 	},
+	"Ethlen the Golden": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Ethlen_the_Golden.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Ethlen_the_Golden.json"
+    },
 	"Excruciator": {
 		"rarity": "epic",
 		"affinity": "magic",
@@ -2175,6 +2255,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Fodbor_the_Bard.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Fodbor_the_Bard.json"
 	},
+	"Fren'zi the Cackler": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Fren_zi_the_Cackler.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Fren_zi_the_Cackler.json"
+    },
 	"Frostbringer": {
 		"rarity": "epic",
 		"affinity": "magic",
@@ -2191,6 +2279,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Fylja.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Fylja.json"
 	},
+	"Fyr-gun Isbeil": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Fyr-gun_Isbeil.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Fyr-gun_Isbeil.json"
+    },
 	"Gala Longbraids": {
 		"rarity": "epic",
 		"affinity": "void",
@@ -3279,6 +3375,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Theresc.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Theresc.json"
 	},
+	"Treeshield Knott": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Sylvan Watchers",
+      "role": "support",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Treeshield_Knott.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Treeshield_Knott.json"
+    },
 	"Thylessia": {
 		"rarity": "epic",
 		"affinity": "force",
@@ -3487,6 +3591,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Warden.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Warden.json"
 	},
+	"Weregren Suncursed": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Weregren_Suncursed.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Weregren_Suncursed.json"
+    },
 	"Whisper": {
 		"rarity": "epic",
 		"affinity": "void",
@@ -4767,6 +4879,14 @@
 		"avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Line_Infantry.png",
 		"detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Line_Infantry.json"
 	},
+	"Loneblade Riab": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Sylvan Watchers",
+      "role": "attack",
+      "avatarUrl": "https://quintale28.github.io/raid-data/images/avatar/Loneblade_Riab.png",
+      "detailsUrl": "https://quintale28.github.io/raid-data/champion-details/Loneblade_Riab.json"
+    },
 	"Lumberer": {
 		"rarity": "rare",
 		"affinity": "force",
